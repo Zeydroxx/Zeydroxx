@@ -2,7 +2,6 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning python/batch
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me louis.netter.pro@justdevthat.fr
 
 <!---
 Zeydroxx/Zeydroxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
